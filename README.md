@@ -116,7 +116,7 @@ Até 2019, o INEP disponibilizava resultados com identificação escolar. A part
 - **Média por etnia:** Branca = 536,8; Parda = 486,4; Preta = 482,2; Amarela = 497,5; Indígena = 457,5; Não Declarada = 513,1
 
 ## 7 - Dashboard
-Todas as visualizações foram construídas no Tableau Public. Para acesso ao dashboard, clique [aqui](https://public.tableau.com/views/PainelEnem2020/Perfil?:language=pt-BR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+Todas as visualizações foram construídas no Tableau Public. Para acesso ao dashboard, clique [aqui](https://public.tableau.com/views/PainelEnem2020/Geral?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 O dashboard foi organizado em 4 páginas:
 
