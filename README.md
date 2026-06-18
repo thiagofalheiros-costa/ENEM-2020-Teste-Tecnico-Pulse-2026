@@ -104,7 +104,7 @@ As principais etapas foram:
 
 ## 6 - Indicadores solicitados
 ### Escola com maior média
-Até 2019, o INEP disponibilizava resultados com identificação escolar. A partir de 2020, em conformidade com a Lei Geral de Proteção de Dados (LGPD) e novas diretrizes de divulgação, o nível de agregação mínimo passou a ser o município do aluno. Feitas as devidads decisões metodológicas, Florianópolis (SC) foi o município com a maior média do país: 579,2 pts
+Até 2019, o INEP disponibilizava resultados com identificação escolar. A partir de 2020, em conformidade com a Lei Geral de Proteção de Dados (LGPD) e novas diretrizes de divulgação, o nível de agregação mínimo passou a ser o município do aluno. Feitas as devidas decisões metodológicas, Florianópolis (SC) foi o município com a maior média do país: 579,2 pts
 
 ### Demais indicadores
 - **Aluno com a maior média:** aluno do sexo masculino, 18 anos, branco e sem informação de município e UF. A média foi de 858,5. 
