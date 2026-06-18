@@ -12,7 +12,7 @@ A solução foi estruturada em um fluxo de dados local utilizando Python, MySQL 
 O pipeline segue a arquitetura:
 
 Microdados ENEM 2020 (CSV)
-- ETL em Python
+- ETL em Python `principal.py`
 - Banco MySQL `enem_db`
 - Modelo dimensional
 - Consultas SQL e conexão com Tableau
